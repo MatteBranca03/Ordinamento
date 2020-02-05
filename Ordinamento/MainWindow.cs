@@ -25,7 +25,7 @@ namespace Ordinamento
         {
             InitializeComponent();
         }
-        List<string> Alunni = new List<string>();
+        List<string> Alunni = new List<string>(); 
         public const string FILE = "prova.txt";
         public const string name = null;
         int i = 0;
